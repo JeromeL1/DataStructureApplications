@@ -98,3 +98,7 @@ a threaded messaging system where users can post messages and other users can po
     System.out.println(board.getThread(1)); // prints "[1, 2, 4, 5, 3]"
 ```
 
+##Credit 
+
+JMUCS, reworded/reduced from project desc for brevity.
+
